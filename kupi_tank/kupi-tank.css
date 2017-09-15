@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
+.container-fluid {
+    background-color: #587676;
+    color: white;
+}
+.header {
+    font-family: 'PT Serif', serif;
+    color: white;
+    background-color: #587676;
+    padding-top: 13px;
+    font-size: 13px;
+    padding-bottom: 20px;
+    width: 1100px;
+}
+.firstbtn {
+  margin-top: 15px;
+  color: white;
+  width: 173px;
+  height: 38px;
+  border-radius: 100px;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.2);
+  border: solid 1px rgba(0, 0, 0, 0.1);
+}
+.logotip {
+    font-size: 10px;
+}
+.logo {
+    width: 1100px;
+}
+.dostavka {
+    padding-bottom: 10px;
+}
+.navbar-header {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    font-size: 14px;
+}
+.navbar-header ul li a {
+    font-family: 'PT Serif', serif;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+.navbar-header ul li a:hover {
+    background-color: rgba(255, 252, 252, 0.55);
+    color: black;
+}
+.item {
+    text-align: -webkit-center;
+}
+
+
+.postavka, .mashina {
+    text-align: left;
+    font-family: 'PT Serif', serif;
+}
+.about {
+    background-color: floralwhite;
+    border-radius: 4px;
+    color: black;
+    width: 1100px;
+    box-shadow: 0 2px 5px 0 #0000000a;
+    border: solid 1px #00000012;
+    font-family: 'PT Serif', serif;
+    text-align: justify;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.carousel-control {
+    margin-left: 20px; !important
+}
+.carousel-control {
+    margin-right: 20px; !important
+}
+.i11 {
+    padding-left: 50px;
+    padding-top: 15px;
+    
+}
+.povpis {
+    width: 310px;
+    height: 50px;
+    border-radius: 3px;
+    text-align: center;
+}
+.podp {
+    width: 310px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: #69abad;
+  border: solid 1px #4b9395;
+    color: white;
+}
+
+.novosti {
+    padding-left: 8px;
+}
+.podpiska {
+    padding-top: 30px;
+}
+.letter {
+    padding-left: 5px;
+    padding-bottom: 12px;
+}
+.rabota {
+    background-color: floralwhite;
+    border-radius: 4px 4px 0 0;
+    color: black;
+    width: 1100px;
+    box-shadow: 0 2px 5px 0 #0000000a;
+    border: solid 1px #00000012;
+    font-family: 'PT Serif', serif;
+    margin-top: 30px;
+}
+.nizhe {
+    padding-top: 7px;
+    background-color: floralwhite;
+}
+
+.parent {
+    display: table;
+    background-color: floralwhite;
+    color: black;
+    width: 1100px;
+    border-radius: 0 0 4px 4px;
+}
+
+.huinia {
+    display: table-cell;
+    vertical-align: middle;
+    box-shadow: 0 2px 5px 0 #0000000a;
+    border: solid 1px #00000012;
+    font-family: 'PT Serif', serif;
+}
+.srokipriceshesterenki {
+    vertical-align: middle;
+    float: left;
+    text-align: right;
+}
+.ololo {
+    vertical-align: middle;
+    text-align: left;      
+}
+.pteim {
+    padding-left: 50px;
+}
+.knopki {
+  width: 348px;
+  height: 60px;
+  border-radius: 4px;
+  background-color: #69abad;
+  border: solid 1px #4b9395;
+  color: white;
+  margin-top: 20px;
+  
+}
+.knop {
+    width: 1100px;
+    padding-left: 8;
+}
+.skidka {
+    color: black;
+    background-color: floralwhite;
+    border-radius: 4px;
+    margin-top: 20px;
+    width: 1100px;
+}
+.procent {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.razrab {
+     color: black;
+    background-color: floralwhite;
+    border-radius: 4px;
+    margin-top: 20px;
+    width: 540px;
+    margin-left: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+.vlevo {
+    margin-left: 90px;
+}
+.zagol {
+   padding-left: 30px;
+}
+.posled {
+    width: 1100px;
+    color: white;
+}
+.okomp {
+    padding-top: 20px;
+    text-align: right;
+}
+.vacancii {
+    padding-top: 20px;
+    text-align: left;
+}
